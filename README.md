@@ -1,6 +1,11 @@
 # Projects
 Project repository showcasing predictive modelling, machine learning, and AI capabilities. This conglomeration of projects comes from professional experience, dissertation research, and personal projects. 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20Finance%20%7C%20Machine%20Learning-blue?style=for-the-badge" />
+</p>
+
+
 # 💼 Portfolio Projects — Garrett Pittman
 
 A collection of **data-driven**, **machine learning**, and **financial analysis** projects demonstrating expertise in **investment analytics**, **predictive modeling**, and **strategic business insight**.  
