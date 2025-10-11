@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Coursework — Customer Churn Prediction
+# Machine Learning Coursework — Customer Churn Prediction
 
 ## 🎯 Objective
 This project develops a **customer churn prediction system** using SQL for feature engineering and Python-based machine learning models.  
