@@ -7,8 +7,9 @@ Using U.S. equity data, macroeconomic indicators, and firm-level fundamentals, t
 ---
 
 ## 📎 Downloads
-- **Code (.py):** [`volatility_model.py`](volatility_model.py)
-- **Dissertation (PDF):** [`dissertation.pdf`](dissertation.pdf)
+- **Code (.py):** [`Final Diss Data copy.py`](Dissertation_Stock_Prediction_Model/Final%20Diss%20Data%20copy.py)
+- **Dissertation (PDF):** [`Dissertation copy.pdf`](Dissertation_Stock_Prediction_Model/Dissertation%20copy.pdf)
+
 
 ---
 
