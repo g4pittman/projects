@@ -6,6 +6,12 @@ Using U.S. equity data, macroeconomic indicators, and firm-level fundamentals, t
 
 ---
 
+## 📎 Downloads
+- **Code (.py):** [`volatility_model.py`](volatility_model.py)
+- **Dissertation (PDF):** [`dissertation.pdf`](dissertation.pdf)
+
+---
+
 ## Data Sources -- S&P Cap IQ Data Query
 1. **Daily Market Data** — Stock price, volume, and market capitalization from `daily_master_final.csv`.  
 2. **Firm Fundamentals** — Quarterly accounting data (book value, net income) from `quarterly_raw.csv`.  
