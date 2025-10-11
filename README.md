@@ -1,9 +1,64 @@
 # Projects
 Project repository showcasing predictive modelling, machine learning, and AI capabilities. This conglomeration of projects comes from professional experience, dissertation research, and personal projects. 
 
+# 💼 Portfolio Projects — Garrett Pittman
 
-### [📘 Dissertation Stock Prediction Model](Dissertation_Stock_Prediction_Model/README.md)
-Using U.S. equity, macroeconomic, and firm-level data, this project builds **XGBoost**, **CatBoost**, and **Random Forest** models to predict how stocks behave after major volatility shocks.  
-It features over **40 engineered variables**, including technical indicators, fundamentals, and yield curve spreads, with **SHAP-based interpretability** for feature insights.  
-**Highlights:** Data integration across time horizons, GroupKFold cross-validation, and volatility event modeling for 1-, 5-, and 20-day return horizons.
+A collection of **data-driven**, **machine learning**, and **financial analysis** projects demonstrating expertise in **investment analytics**, **predictive modeling**, and **strategic business insight**.  
+Each project combines **quantitative rigor** with real-world application — spanning marketing, retail, and finance domains.
+
+---
+
+## 🧠 Projects
+
+### [📊 Dissertation — Stock Price Volatility Prediction](./Dissertation_Stock_Prediction_Model)
+Developed a **machine learning model** to predict **post-volatility stock corrections** using daily S&P 500 data.  
+Applied **LSTM networks**, **XGBoost regressors**, and **feature importance analysis** to forecast **directional returns** following ±2σ volatility shocks.  
+_**Skills:** Python, Time-Series Modeling, Financial Analysis, Neural Networks_
+
+---
+
+### [🐦 Brand Analytics — Twitter Data](./Brand_Analytics_Twitter_Scraping)
+Performed a **social media sentiment and engagement analysis** using real-world **Twitter API data**.  
+Explored **brand perception** trends and **consumer engagement** patterns over time using **NLP and data visualization**.  
+_**Skills:** Data Mining, Natural Language Processing, Python, Visualization_
+
+---
+
+### [🧾 FoodCorp Comparative Analysis](./FoodCorp_Comparative_Analysis)
+Led a **retail performance and customer behavior study** across multiple UK stores.  
+Built SQL-based KPIs to identify growth opportunities and recommend targeted marketing campaigns.  
+_**Skills:** SQL, Data Analytics, KPI Design, Tableau, Business Intelligence_
+
+---
+
+### [📈 Customer Churn Prediction (Machine Learning Coursework)](./Churn_Prediction_ML)
+Constructed a full **churn prediction pipeline** using **SQL**, **Python**, and **XGBoost**.  
+Implemented **feature engineering**, **temporal windowing**, and **permutation importance** to forecast customer attrition with >80% accuracy.  
+_**Skills:** Machine Learning, SQL, Python, Predictive Modeling_
+
+---
+
+### [📣 Reebok Digital Marketing Audit](./Reebok_Digital_Marketing_Audit)
+Executed a **strategic marketing analysis** of Reebok’s global digital presence, evaluating **SEO/SEM**, **social engagement**, and **competitive positioning**.  
+Recommended actionable strategies for **brand differentiation** and **customer retention**.  
+_**Skills:** Digital Strategy, Marketing Analytics, Data Storytelling, Market Research_
+
+---
+
+### [🎯 Customer Conversion & Marketing Analytics](./Customer_Conversion_Prediction_Marketing)
+Analyzed marketing campaign effectiveness and **conversion behavior** using **SQL** and **Python modeling**.  
+Produced insights to optimize **customer acquisition** and **retargeting strategies** across multiple campaigns.  
+_**Skills:** Data Analysis, Campaign Optimization, SQL, Python_
+
+---
+
+### [🧩 Customer Segmentation & Behavioral Analytics](./Customer_Segmentation)
+Built **unsupervised clustering models** to group customers by purchase frequency, spend, and category preferences.  
+Generated actionable insights for **personalized marketing** and **lifetime value optimization**.  
+_**Skills:** K-Means Clustering, Data Science, Customer Analytics, Visualization_
+
+---
+
+💡 _For full project details and reports, click the links above to view code, documentation, and analyses._
+
 
