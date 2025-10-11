@@ -37,5 +37,7 @@ Enabled data-driven brand perception tracking, helping businesses monitor audien
 ---
 
 ## 📎 Downloads
-- **Analytics Report (PDF):** [`Brand Analytics - Twitter Data.pdf`](./Brand%20Analytics%20-%20Twitter%20Data.pdf)
+- **Code (Jupyter Notebook):** [`ASA_Coursework_2_code.ipynb`](./ASA_Coursework_2_code.ipynb)
+- **Report (Word Document):** [`ASA_Coursework_2_Report.docx`](./ASA_Coursework_2_Report.docx)
+
 
