@@ -65,13 +65,16 @@ Three supervised learning algorithms were tested:
 <p align="center">
   <img src="https://github.com/g4pittman/projects/blob/main/Customer_Conversion_Prediction_Marketing_Campaign/download-1.png?raw=true" width="600"/>
   <br>
-  <em>Visualizing the end-to-end marketing conversion funnel, from impressions to final customer acquisition.</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/g4pittman/projects/blob/main/Customer_Conversion_Prediction_Marketing_Campaign/download-2.png?raw=true" width="600"/>
   <br>
-  <em>Comparing campaign success rates across digital channels to identify the most effective acquisition sources.</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Conversion_Prediction_Marketing_Campaign/download.png?raw=true" width="600"/>
+  <br>
 </p>
 
 
