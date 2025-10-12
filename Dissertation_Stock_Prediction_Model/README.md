@@ -108,7 +108,7 @@ Derived feature importance using:
 </p>
 
 <p align="center">
-  <img src="https://github.com/g4pittman/projects/blob/main/Dissertation_Stock_Prediction_Model/SHAP%20Value%20Feature%Importance%2020d%20copy.png?raw=true" width="650"/>
+  <img src="https://github.com/g4pittman/projects/blob/main/Dissertation_Stock_Prediction_Model/SHAP%20Value%20Feature%Importance%20copy.png?raw=true" width="650"/>
 </p>
 
 
