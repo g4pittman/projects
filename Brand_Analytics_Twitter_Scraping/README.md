@@ -1,4 +1,4 @@
-# 💬 Brand Analytics — Twitter Data
+# 💬 Brand Analytics — Twitter Scraping
 
 ## 🎯 Objective
 This project performs a **social media sentiment and engagement analysis** using real-world Twitter data. It explores how public perception and user interaction vary across brands, campaigns, and time periods.
