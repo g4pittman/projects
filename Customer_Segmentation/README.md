@@ -53,6 +53,27 @@ Created comprehensive feature sets across four dimensions:
 
 ---
 
+## 📊 Visuals
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Segmentation/download-1.png?raw=true" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Segmentation/download-2.png?raw=true" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Segmentation/download-5.png?raw=true" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Segmentation/download-6.png?raw=true" width="600"/>
+</p>
+
+
+---
+
 ## 📎 Downloads
 - **Code (Python Script):** [`20595117_BUSI4370_2024-25.py`](./20595117_BUSI4370_2024-25.py)
 - **Report (Word Document):** [`20595117_BUSI4370_2024-25.docx`](./20595117_BUSI4370_2024-25.docx)
