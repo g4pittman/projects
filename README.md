@@ -39,6 +39,17 @@ _**Skills:** Python, Time-Series Modeling, Financial Analysis, Neural Networks_
 
 
 ---
+### [📊 Fentanyl Dashboard — rivcoda.org](https://rivcoda.org/fighting_fentanyl)  
+Developed an interactive dashboard to visualize **fentanyl distribution trends and community impact metrics**.  
+_**Skills used:** SQL, Power BI, Power Automate_
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Path/To/Fentanyl_Dashboard_Screenshot.png?raw=true" width="700"/>
+  <br>
+  <em>Fentanyl Dashboard — showing key metrics and geographic trends</em>
+</p>
+
+---
 
 ### [🐦 Brand Analytics — Twitter Data](./Brand_Analytics_Twitter_Scraping)
 Performed a **social media sentiment and engagement analysis** using real-world **Twitter API data**.  
