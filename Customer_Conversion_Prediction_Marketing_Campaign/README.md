@@ -60,6 +60,31 @@ Three supervised learning algorithms were tested:
 
 ---
 
+## 📊 Visuals
+
+<p align="center">
+  <h3><strong>📈 Campaign Conversion Funnel</strong></h3>
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Conversion_Prediction_Marketing_Campaign/download-1.png?raw=true" width="600"/>
+  <br>
+  <em>Visualizing the end-to-end marketing conversion funnel, from impressions to final customer acquisition.</em>
+</p>
+
+<p align="center">
+  <h3><strong>🎯 Channel Performance Comparison</strong></h3>
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Conversion_Prediction_Marketing_Campaign/download-2.png?raw=true" width="600"/>
+  <br>
+  <em>Comparing campaign success rates across digital channels to identify the most effective acquisition sources.</em>
+</p>
+
+<p align="center">
+  <h3><strong>💰 ROI and Cost Efficiency Analysis</strong></h3>
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Conversion_Prediction_Marketing_Campaign/download-3.png?raw=true" width="600"/>
+  <br>
+  <em>Assessing marketing return on investment (ROI) and cost-per-acquisition metrics for performance optimization.</em>
+</p>
+
+---
+
 ## 📎 Downloads
 - **Code (Jupyter Notebook):** [`FBA_Final_Coursework.ipynb`](./FBA_Final_Coursework.ipynb)
 - **Final Model (Jupyter Notebook):** [`FBA_Final_Model.ipynb`](./FBA_Final_Model.ipynb)
