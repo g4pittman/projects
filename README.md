@@ -39,16 +39,16 @@ _**Skills:** Python, Time-Series Modeling, Financial Analysis, Neural Networks_
 
 
 ---
-### [📊 Fentanyl Dashboard — rivcoda.org](https://rivcoda.org/fighting_fentanyl)  
-Developed an interactive dashboard to visualize **fentanyl distribution trends and community impact metrics**.  
-_**Skills used:** SQL, Power BI, Power Automate_
+### [⚖️ Fentanyl Dashboard — Riverside County District Attorney’s Office](https://rivcoda.org/fighting_fentanyl)
+Designed and implemented an interactive **Power BI dashboard** visualizing **fentanyl-related homicide cases** and **prosecution outcomes** for the Riverside County District Attorney’s Office.  
+Leveraged **SQL**, **Power BI**, and **Power Automate** to integrate case data, automate updates, and deliver actionable insights supporting public safety and legal transparency.  
+_**Skills:** SQL, Power BI, Power Automate, Data Visualization_
 
 <p align="center">
-  <img src="https://github.com/g4pittman/projects/blob/main/Path/To/Fentanyl_Dashboard_Screenshot.png?raw=true" width="700"/>
+  <img src="https://github.com/g4pittman/projects/blob/main/Dissertation_Stock_Prediction_Model/rivcoda.org_fighting_fentanyl.png?raw=true" width="800"/>
   <br>
-  <em>Fentanyl Dashboard — showing key metrics and geographic trends</em>
+  <em>Fentanyl Homicide Prosecution Dashboard — showing case trends, outcomes, and victim demographics</em>
 </p>
-
 ---
 
 ### [🐦 Brand Analytics — Twitter Data](./Brand_Analytics_Twitter_Scraping)
