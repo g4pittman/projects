@@ -87,7 +87,7 @@ SELECT
 FROM datas50.receipts r
 JOIN datas50.receipt_lines rl ON r.receipt_id = rl.receipt_id
 GROUP BY 1, 2
-ORDER BY month;'''
+ORDER BY month;
 
 ---
 
