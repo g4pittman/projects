@@ -4,7 +4,7 @@ Project repository showcasing predictive modelling, machine learning, and AI cap
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20Finance%20%7C%20Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%7C%20Finance%20%7C%20Machine%20Learning-blue?style=for-the-badge" />
 </p>
 
 
