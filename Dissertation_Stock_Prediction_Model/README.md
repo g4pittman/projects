@@ -97,6 +97,33 @@ Derived feature importance using:
 
 ---
 
+## 📊 Visuals
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Dissertation_Stock_Prediction_Model/Final%20Permutation%20Importance%2020d.png?raw=true" width="650"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Dissertation_Stock_Prediction_Model/Net%20Shock%20Score%20Over%20Time%20copy.png?raw=true" width="650"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Dissertation_Stock_Prediction_Model/SHAP%20Value%20Feature%Importance%2020d%20copy.png?raw=true" width="650"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Dissertation_Stock_Prediction_Model/Stacked%20Area%20of%20Pos%20Neg%20Shocks%20Over%20Time%20copy.png?raw=true" width="650"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Dissertation_Stock_Prediction_Model/Yield%20Curve%20Regime%20Across%20Dataset.png?raw=true" width="650"/>
+</p>
+
+
+---
+
+
 ## Tools and Technologies
 - **Python** — Pandas, NumPy, Matplotlib, Seaborn  
 - **ML Frameworks** — XGBoost, CatBoost, scikit-learn, SHAP  
