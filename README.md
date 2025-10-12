@@ -74,6 +74,21 @@ Led a **retail performance and customer behavior study** across multiple UK stor
 Built SQL-based KPIs to identify growth opportunities and recommend targeted marketing campaigns.  
 _**Skills:** SQL, Data Analytics, KPI Design, Tableau, Business Intelligence_
 
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/FoodCorp_Comparative_Analysis/Screenshot%202025-10-11%20at%206.40.05%20PM.png?raw=true" width="650"/>
+</p>
+
+Example SQL snippet for revenue KPI:
+```sql
+SELECT  
+    DATE_TRUNC('month', r.purchased_at) AS month,
+    r.store_code,
+    SUM(rl.value) AS revenue
+FROM datas50.receipts r
+JOIN datas50.receipt_lines rl ON r.receipt_id = rl.receipt_id
+GROUP BY 1, 2
+ORDER BY month;
+
 ---
 
 ### [📈 Customer Churn Prediction (Machine Learning Coursework)](./Churn_Prediction_ML)
