@@ -99,6 +99,11 @@ Analyzed marketing campaign effectiveness and **conversion behavior** using **SQ
 Produced insights to optimize **customer acquisition** and **retargeting strategies** across multiple campaigns.  
 _**Skills:** Data Analysis, Campaign Optimization, SQL, Python_
 
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Conversion_Prediction_Marketing_Campaign/download.png?raw=true" width="600"/>
+  <br>
+</p>
+
 ---
 
 ### [🧩 Customer Segmentation & Behavioral Analytics](./Customer_Segmentation)
