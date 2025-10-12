@@ -111,6 +111,15 @@ Built **unsupervised clustering models** to group customers by purchase frequenc
 Generated actionable insights for **personalized marketing** and **lifetime value optimization**.  
 _**Skills:** K-Means Clustering, Data Science, Customer Analytics, Visualization_
 
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Segmentation/download-1.png?raw=true" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Customer_Segmentation/download-6.png?raw=true" width="600"/>
+</p>
+
+
 ---
 
 💡 _For full project details and reports, click the links above to view code, documentation, and analyses._
