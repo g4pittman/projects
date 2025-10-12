@@ -69,31 +69,6 @@ _**Skills:** Data Mining, Natural Language Processing, Python, Visualization_
 
 ---
 
-### [🧾 FoodCorp Comparative Analysis](./FoodCorp_Comparative_Analysis)
-Led a **retail performance and customer behavior study** across multiple UK stores.  
-Built SQL-based KPIs to identify growth opportunities and recommend targeted marketing campaigns.  
-_**Skills:** SQL, Data Analytics, KPI Design, Tableau, Business Intelligence_
-
-<p align="center">
-  <img src="https://github.com/g4pittman/projects/blob/main/FoodCorp_Comparative_Analysis/Screenshot%202025-10-11%20at%206.40.05%20PM.png?raw=true" width="650"/>
-</p>
-
----
-
-### [📈 Customer Churn Prediction (Machine Learning Coursework)](./Churn_Prediction_ML)
-Constructed a full **churn prediction pipeline** using **SQL**, **Python**, and **XGBoost**.  
-Implemented **feature engineering**, **temporal windowing**, and **permutation importance** to forecast customer attrition with >80% accuracy.  
-_**Skills:** Machine Learning, SQL, Python, Predictive Modeling_
-
----
-
-### [📣 Reebok Digital Marketing Audit](./Reebok_Digital_Marketing_Audit)
-Executed a **strategic marketing analysis** of Reebok’s global digital presence, evaluating **SEO/SEM**, **social engagement**, and **competitive positioning**.  
-Recommended actionable strategies for **brand differentiation** and **customer retention**.  
-_**Skills:** Digital Strategy, Marketing Analytics, Data Storytelling, Market Research_
-
----
-
 ### [🎯 Customer Conversion & Marketing Analytics](./Customer_Conversion_Prediction_Marketing)
 Analyzed marketing campaign effectiveness and **conversion behavior** using **SQL** and **Python modeling**.  
 Produced insights to optimize **customer acquisition** and **retargeting strategies** across multiple campaigns.  
@@ -119,6 +94,31 @@ _**Skills:** K-Means Clustering, Data Science, Customer Analytics, Visualization
   <img src="https://github.com/g4pittman/projects/blob/main/Customer_Segmentation/download-6.png?raw=true" width="600"/>
 </p>
 
+
+---
+
+### [📈 Customer Churn Prediction (Machine Learning Coursework)](./Churn_Prediction_ML)
+Constructed a full **churn prediction pipeline** using **SQL**, **Python**, and **XGBoost**.  
+Implemented **feature engineering**, **temporal windowing**, and **permutation importance** to forecast customer attrition with >80% accuracy.  
+_**Skills:** Machine Learning, SQL, Python, Predictive Modeling_
+
+---
+### [🧾 FoodCorp Comparative Analysis](./FoodCorp_Comparative_Analysis)
+Led a **retail performance and customer behavior study** across multiple UK stores.  
+Built SQL-based KPIs to identify growth opportunities and recommend targeted marketing campaigns.  
+_**Skills:** SQL, Data Analytics, KPI Design, Tableau, Business Intelligence_
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/FoodCorp_Comparative_Analysis/Screenshot%202025-10-11%20at%206.40.05%20PM.png?raw=true" width="650"/>
+</p>
+
+
+---
+
+### [📣 Reebok Digital Marketing Audit](./Reebok_Digital_Marketing_Audit)
+Executed a **strategic marketing analysis** of Reebok’s global digital presence, evaluating **SEO/SEM**, **social engagement**, and **competitive positioning**.  
+Recommended actionable strategies for **brand differentiation** and **customer retention**.  
+_**Skills:** Digital Strategy, Marketing Analytics, Data Storytelling, Market Research_
 
 ---
 
