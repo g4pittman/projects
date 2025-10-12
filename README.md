@@ -45,6 +45,28 @@ Performed a **social media sentiment and engagement analysis** using real-world 
 Explored **brand perception** trends and **consumer engagement** patterns over time using **NLP and data visualization**.  
 _**Skills:** Data Mining, Natural Language Processing, Python, Visualization_
 
+
+<p align="center">
+  <h3>Geospatial Mapping</h3>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Brand_Analytics_Twitter_Scraping/Adidas%20Volume%20by%20Country%20copy.png?raw=true" width="600"/>
+  <br>
+  <em>Adidas Tweet Volume by Country — showing engagement concentration by region.</em>
+</p>
+
+<p align="center">
+  <h3>Mapping Over Time</h3>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Brand_Analytics_Twitter_Scraping/Sentiment%20Over%20Time%20.png?raw=true" width="600"/>
+  <br>
+  <em>Sentiment Over Time — illustrating shifts in brand perception across the campaign period.</em>
+</p>
+
 ---
 
 ### [🧾 FoodCorp Comparative Analysis](./FoodCorp_Comparative_Analysis)
