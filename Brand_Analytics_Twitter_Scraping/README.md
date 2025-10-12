@@ -30,7 +30,21 @@ This project performs a **social media sentiment and engagement analysis** using
 - **NLP**, **Sentiment Analysis**, **Social Media Analytics**
 
 ---
+## 📊 Visualizations
 
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Brand_Analytics_Twitter_Scraping/Adidas%20Volume%20by%20Country%20copy.png?raw=true" width="600"/>
+  <br>
+  <em>Adidas Tweet Volume by Country — showing engagement concentration by region.</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Brand_Analytics_Twitter_Scraping/Sentiment%20Over%20Time%20.png?raw=true" width="600"/>
+  <br>
+  <em>Sentiment Over Time — illustrating shifts in brand perception across the campaign period.</em>
+</p>
+
+---
 ## 💼 Business Impact
 Enabled data-driven brand perception tracking, helping businesses monitor audience sentiment and optimize marketing communication strategies.
 
