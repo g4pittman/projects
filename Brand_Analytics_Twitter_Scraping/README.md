@@ -32,14 +32,20 @@ This project performs a **social media sentiment and engagement analysis** using
 ---
 ## 📊 Visualizations
 
-###                                                       Geo-Spatial Mapping
+<p align="center">
+  <h3>Geospatial Mapping</h3>
+</p>
+
+
 <p align="center">
   <img src="https://github.com/g4pittman/projects/blob/main/Brand_Analytics_Twitter_Scraping/Adidas%20Volume%20by%20Country%20copy.png?raw=true" width="600"/>
   <br>
   <em>Adidas Tweet Volume by Country — showing engagement concentration by region.</em>
 </p>
 
-###                                                        Mapping Over Time
+<p align="center">
+  <h3>Mapping Over Time</h3>
+</p>
 
 <p align="center">
   <img src="https://github.com/g4pittman/projects/blob/main/Brand_Analytics_Twitter_Scraping/Sentiment%20Over%20Time%20.png?raw=true" width="600"/>
