@@ -41,3 +41,16 @@ JOIN datas50.receipt_lines rl ON r.receipt_id = rl.receipt_id
 GROUP BY 1, 2
 ORDER BY month;
 
+---
+
+## 📊 Visuals
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/FoodCorp_Comparative_Analysis/Screenshot%202025-10-11%20at%206.39.52%20PM.png?raw=true" width="650"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/FoodCorp_Comparative_Analysis/Screenshot%202025-10-11%20at%206.40.05%20PM.png?raw=true" width="650"/>
+</p>
+
+
