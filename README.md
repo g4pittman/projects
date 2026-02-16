@@ -80,6 +80,19 @@ _**Skills:** Data Mining, Natural Language Processing, Python, Visualization_
 
 ---
 
+
+### [📊 Google Step Up Challenge — Gemini Marketing Campaign Strategy](./Google_Step_Up_Challenge)
+Developed a comprehensive **$10M digital marketing strategy** for Google's Gemini Pro launch across 3 international markets, demonstrating advanced **data analysis**, **statistical testing**, and **budget optimization** capabilities.  
+Applied **Python** for statistical significance testing (z-tests, proportions_ztest), **Excel/Pandas** for campaign performance modeling and VLOOKUP/merge operations, and **data visualization** to drive actionable insights on channel efficiency, creative performance, and market segmentation.  
+_**Skills:** Python, Statistical Analysis, Marketing Analytics, Budget Optimization, Data Visualization, Business Intelligence, Excel_
+
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Google_Step_Up_Challenge/slide0_market_overview.png?raw=true" width="650"/>
+</p>
+
+
+---
+
 ### [🎯 Customer Conversion & Marketing Analytics](./Customer_Conversion_Prediction_Marketing)
 Analyzed marketing campaign effectiveness and **conversion behavior** using **SQL** and **Python modeling**.  
 Produced insights to optimize **customer acquisition** and **retargeting strategies** across multiple campaigns.  
