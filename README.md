@@ -86,7 +86,9 @@ Developed a comprehensive **$10M digital marketing strategy** for Google's Gemin
 Applied **Python** for statistical significance testing (z-tests, proportions_ztest), **Excel/Pandas** for campaign performance modeling and VLOOKUP/merge operations, and **data visualization** to drive actionable insights on channel efficiency, creative performance, and market segmentation.  
 _**Skills:** Python, Statistical Analysis, Marketing Analytics, Budget Optimization, Data Visualization, Business Intelligence, Excel_
 
-![PPT Intro](./Google_Step_Up_Challenge/PPT_Intro_Slide.png)
+<p align="center">
+  <img src="https://github.com/g4pittman/projects/blob/main/Google_Step_Up_Challenge/PPT_Intro_Slide.png?raw=true" width="650"/>
+</p>
 
 
 ---
